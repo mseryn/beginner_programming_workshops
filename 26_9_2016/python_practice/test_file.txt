@@ -1,0 +1,11 @@
+This is the first line of text
+This is the second.
+        There were two tabs at the start of this line, and it's the third line in the file.
+
+This is the fifth line in the file. The fourth was only the newline character.
+Sixth.
+
+
+
+Tenth - 7, 8, and 9 were empty as well.
+This is the eleventh line and should be the end of the file.
