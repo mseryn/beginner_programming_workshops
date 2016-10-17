@@ -1,0 +1,3 @@
+Type some stuff
+It's complicated to get started with Vim, but once you know how to use it,
+it'll never fail you.

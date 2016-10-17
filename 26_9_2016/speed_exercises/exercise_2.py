@@ -14,10 +14,10 @@ def print_prime_numbers_in_range(start, finish):
         if number > 1:
             for temp in range(2, number):
                 if (number % temp) == 0:
-                    break;      # a break here voids the else clause below
+                    break;      # a break here triggers the else clause below
             else:
                 # else statements following for loops trigger if for loop
-                # did not terminate due to a break
+                # terminated due to a break
                 print("%i is prime" %number)             
 
 if __name__ == "__main__":

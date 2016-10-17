@@ -6,7 +6,6 @@
 #*  Melanie Cornelius, mseryn, melanie.e.cornelius@gmail.com
 #***
 
-import matplotlib.pyplot
 
 
 # Playing with text file
